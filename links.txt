@@ -1,2 +1,0 @@
-https://stackoverflow.com/questions/22562023/n-steps-with-1-2-or-3-steps-taken-how-many-ways-to-get-to-the-top/22562828#22562828
-https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
